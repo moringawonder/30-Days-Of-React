@@ -53,3 +53,4 @@ console.log(itCompanies.includes('IBM'))
 console.log(itCompanies.sort())
 console.log(itCompanies.reverse())
 console.log(itCompanies.slice(0,4))
+
