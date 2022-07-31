@@ -7,3 +7,8 @@ const webTechs = [
   'Node',
   'MongoDB',
 ]
+  function showWebTechs(webTechs){
+    return `${webTechs}`;
+ }
+
+ export default { webTechs, showWebTechs };
