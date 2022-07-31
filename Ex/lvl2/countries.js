@@ -11,3 +11,9 @@ const countries = [
   'Japan',
   'Kenya',
 ]
+
+function showCountries(countries) {
+  return `${countries}`;
+}
+
+export default { countries, showCountries };
